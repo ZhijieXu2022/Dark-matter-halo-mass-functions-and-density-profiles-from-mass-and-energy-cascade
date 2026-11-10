@@ -1,0 +1,16 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com
+# Updated,11/2026,,
+#Name,Fig. 9 of the paper: critical mass m_h^* and total halo mass M_h against a (plotted data),,
+#Ref. [1] This paper,https://doi.org/10.1038/s41598-023-42958-6,"Z. Xu 2023, Sci. Rep. 13, 16531: Dark matter halo mass functions and density profiles from mass and energy cascade",
+#Ref. [2] Illustris-1-Dark,https://doi.org/10.1016/j.ascom.2015.09.003,"Nelson et al. 2015, Astron. Comput. 13, 12 (public data release)",
+#Note,source: author MATLAB figure Create_Latex_figures/paper_figs/Mass_function_and_density_profile/Mh_star_vs_a_3.fig (md5 50b61c148742bf4e970405685074842b),,
+,,,
+,,,
+x[0] m_h^*(a),y[0] m_h^*(a),x[1] M_h(a),y[1] M_h(a)
+0.0766871166,3.10027344e+10,0.0766871166,1.08650343e+14
+0.110987791,8.99911911e+10,0.110987791,1.40091175e+15
+0.199600798,5.00034535e+11,0.199600798,7.75564709e+15
+0.333333333,1.99986187e+12,0.333333333,1.4404429e+16
+0.5,5.00034535e+12,0.5,1.89662319e+16
+0.763358779,8.99911911e+12,0.763358779,2.28711758e+16
+1,1.20005182e+13,1,2.50367236e+16
